@@ -1,0 +1,1 @@
+const button = require('./component/buttton/index');
